@@ -1,4 +1,5 @@
 public class persona{
-	String nombre
-	int fecha
+  	public String nombre
+	public	int fecha
+	public String apellido
 }
